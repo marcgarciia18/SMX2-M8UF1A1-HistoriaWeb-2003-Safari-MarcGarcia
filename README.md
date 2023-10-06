@@ -2,12 +2,12 @@
 ## Autor
 Safari fue desarrollado por Apple Inc. El equipo de ingenieros y diseñadores de Apple que trabajó en su desarrollo es numeroso y no se puede atribuir a un autor unico, aunque si hablamos de fundador podriamos decir que [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs "Steve Jobs") es el mayor representante de la compañia.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Steve%20Jobs.jpg "Steve")
+![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Steve%20Jobs.jpg "Steve")
 
 ## Como se creó
 Safari se lanzó por primera vez el 7 de enero de 2003, en la conferencia Macworld Expo de Apple. Su desarrollo se mantuvo en secreto hasta su sorprendente anuncio. Safari fue diseñado para ser el navegador web predeterminado en los dispositivos Mac de Apple y se basó en el motor de renderizado WebKit, que es un proyecto de código abierto.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Creacion.jpg "Creacion")
+![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Creacion.jpg "Creacion")
 
 ## Repercusión a lo largo de la historia
 Safari ha tenido varias repercusiones a lo largo de su historia. Algunos puntos destacados incluyen:
@@ -18,7 +18,7 @@ Safari ha influido en la forma en que se desarrollan y se implementan los están
 
 La integración de Safari en los dispositivos iOS ha llevado a una adopción generalizada del navegador en dispositivos móviles, lo que ha influido en la forma en que se diseñan y desarrollan sitios web y aplicaciones web móviles.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Repercusion.jpg "Repercusion")
+![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Repercusion.jpg "Repercusion")
 
 ## Competencias que han aparecido
 Safari compite en el mercado de navegadores web con otros navegadores populares como Google Chrome, Mozilla Firefox y Microsoft Edge
@@ -31,4 +31,4 @@ Safari compite en el mercado de navegadores web con otros navegadores populares 
 | |Privacidad y seguridad 🔐|Apple ha puesto privacidad y la seguridad en Safari. Características como "Prevención de rastreo inteligente" y "Autenticación de dos factores para contraseñas" que se han diseñado para proteger la privacidad del usuario |
 | |Extensiones y personalización 🤳|Safari permite a los usuarios instalar extensiones y personalizar la experiencia de navegación, aunque en el pasado tenía un ecosistema de extensiones más limitado en comparación con otros navegadores |
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Competencia.jpg "Competencia")
+![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Competencia.jpg "Competencia")
