@@ -18,7 +18,7 @@ Safari ha influido en la forma en que se desarrollan y se implementan los están
 
 La integración de Safari en los dispositivos iOS ha llevado a una adopción generalizada del navegador en dispositivos móviles, lo que ha influido en la forma en que se diseñan y desarrollan sitios web y aplicaciones web móviles.
 
-![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Repercusion.jpg "Repercusion")
+<img src="https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2003-Safari-MarcGarcia/blob/main/Imagenes/Repercusion.jpg" alt="Logo" width="300" height="200" />
 
 ## Competencias que han aparecido
 Safari compite en el mercado de navegadores web con otros navegadores populares como Google Chrome, Mozilla Firefox y Microsoft Edge
